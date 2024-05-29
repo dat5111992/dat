@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/adaltas/node-csv.git"
+    "url": "https://github.com/dat5111992/dat.git"
   },
   "scripts": {
     "build": "lerna run build",
